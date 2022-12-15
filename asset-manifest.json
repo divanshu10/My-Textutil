@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Textutil/static/css/main.69916d23.css",
+    "main.js": "/My-Textutil/static/js/main.d6c057f6.js",
+    "index.html": "/My-Textutil/index.html",
+    "main.69916d23.css.map": "/My-Textutil/static/css/main.69916d23.css.map",
+    "main.d6c057f6.js.map": "/My-Textutil/static/js/main.d6c057f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69916d23.css",
+    "static/js/main.d6c057f6.js"
+  ]
+}
